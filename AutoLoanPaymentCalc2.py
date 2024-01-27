@@ -1,7 +1,7 @@
 '''
 Author: Mikhail LaMay
 
-Desc: Script To Calculate Remaining Car Payment Information To Help Determine Best Course Of Action For Repayment
+Desc: Script To Calculate Remaining Car Payment Information To Help You Determine Best Course Of Action For Repayment
 
 Important Variables/Definitions:
     Amortization Schedule:
